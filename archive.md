@@ -4,7 +4,7 @@ title: About
 ---
 
 
-<p> "Listen" </p>
+<p> I'm <a href= "https://www.linkedin.com/in/pippy-stauf-360164249/" >Pippy Stauf</a> listen right here </p>
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
