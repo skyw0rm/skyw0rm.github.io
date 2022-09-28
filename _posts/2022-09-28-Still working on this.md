@@ -1,0 +1,1 @@
+I havnet been able to post anything yet, blogs functionality i still funcy and im trying to get it to a point where it should be easy to use and also easy to read, im not for there from as for now just trying to get something on he
